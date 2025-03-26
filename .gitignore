@@ -6,7 +6,6 @@
 public
 
 # themes
-themes/*
 !themes/.gitkeep
 
 # hugo
