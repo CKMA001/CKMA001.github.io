@@ -6,14 +6,6 @@ on:
       - main
 
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-
-
 jobs:
   build-and-deploy:
     # 构建环境使用 ubuntu
