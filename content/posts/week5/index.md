@@ -3,10 +3,10 @@ title: Medium Design, Keller Easterling
 date: 2019-06-03T14:21:26+08:00
 author: Mck
 avatar: /img/personal/avatar.jpg
-cover: original90.png
+cover: original2.jpg
 
 images:
-  - original90.png
+  - original2.jpg
 categories:
   - Algebra
 
