@@ -15,3 +15,56 @@
 [data-theme="forest"] #disqus_thread a {
   color: #cbc9ca;
 }
+
+
+
+
+
+
+
+/**滚动图片 begin*/
+
+.carousel {
+  position: relative;
+  overflow: hidden;
+  width: 600px; /* 设定宽度 */
+}
+
+.carousel .carousel-inner {
+  display: flex;
+  transition: transform 0.5s ease; /* 过渡效果 */
+}
+
+.carousel .carousel-item {
+  min-width: 100%; /* 每张图片占满整个视口 */
+  /*display: none;*/
+
+  box-sizing: border-box;
+}
+.carousel .carousel-item.active {
+  display: block;
+}
+
+.carousel img {
+  width: 100%; /* 图片自适应宽度 */
+}
+
+.carousel button {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  border: none;
+  cursor: pointer;
+  font-size: 1.5rem;
+  color: #ddffdd;
+}
+
+.carousel .prev {
+  left: 10px;
+}
+
+.carousel .next {
+  right: 10px;
+}
+
+/**滚动图片 end */

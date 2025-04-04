@@ -5,9 +5,12 @@ author: Mck
 avatar: /img/personal/avatar.jpg
 cover: original0.webp
 
-images:
-  - original0.webp
-  - original.png
+slide_images:
+  - path: original.png
+    desc:
+  - path: original2.gif
+    desc:
+
 categories:
   - Algebra
 

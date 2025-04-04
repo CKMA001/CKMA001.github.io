@@ -1,0 +1,14 @@
+{{ $scr := $.Scratch }}
+
+{{/* Rename _vendor dir as GitHub Pages doesn't automatically publish folders with underscores. */}}
+{{ $libs := slice }}
+{{- $lib_names := slice "js/vendor/jquery.min.js" "js/carousel_slides.js" -}}
+{{- range $lib_names -}}
+    {{- $libs = $libs | append (resources.Get (printf "%s" .) ) -}}
+{{- end -}}
+{{ $libs := $libs | resources.Concat "js/vendor-bundle.js"   }}
+{{/*{{ $libs := $libs | resources.Concat "js/vendor-bundle.js" | minify }}*/}}
+{{- if hugo.IsProduction -}}
+  {{ $libs = $libs | fingerprint "md5" }}
+{{- end -}}
+<script src="{{ $libs.RelPermalink }}"></script>

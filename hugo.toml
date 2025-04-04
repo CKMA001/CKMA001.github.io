@@ -90,7 +90,7 @@ showPrevNextPost = true
 twitter = "g1eny0ung"
 
 [params.navItems]
-github = { href = "https://github.com/g1eny0ung", target = "_blank", icon = "logo-github", title = "GitHub" }
+github = { href = "https://github.com/CKMA001", target = "_blank", icon = "logo-github", title = "GitHub" }
 
 [params.advanced]
 customCSS = ["css/custom.css"]

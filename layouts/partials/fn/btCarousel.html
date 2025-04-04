@@ -1,0 +1,24 @@
+
+<div id="carouselExample" class="carousel slide"  >
+  <div class="carousel-inner">
+
+{{/*      {{ range $index, $item := .Resources.ByType "image" }}*/}}
+      {{ range $index, $item := .Params.slide_images  }}
+    <div class="carousel-item {{ if eq $index 0 }}active{{ end }}">
+        {{/*<img src="{{ $item.RelPermalink }}" width="{{ $item.Width }}" height="{{ $item.Height }}" alt="">*/}}
+        <img src="{{ $item.path }}" width="{{ $item.Width }}" height="{{ $item.Height }}" alt="">
+    </div>
+      {{ end }}
+
+  </div>
+  <button class="carousel-control-btn prev" type="button" data-bs-slide="prev">
+    <span class="btn-text">&lt;</span>
+  </button>
+  <button class="carousel-control-btn next" type="button" data-bs-slide="next">
+    <span class="btn-text">&gt;</span>
+  </button>
+</div>
+
+<script>
+  // new bootstrap.Carousel('#carouselExample')
+</script>

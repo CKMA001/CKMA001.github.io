@@ -67,3 +67,8 @@ html.dark #dream-global-bg {
 {{ end }}
 
 
+{{/*{{ $bootstrapOutputCss := resources.Get "css/bootstrap.min.css" }}*/}}
+{{/*<link href="{{ relLangURL $item.path }} https://getbootstrap.com/docs/5.3/dist/css/bootstrap.min.css" >*/}}
+{{/*<link rel="stylesheet" href="{{ $bootstrapOutputCss.RelPermalink }}" />*/}}
+
+{{ partial "site_js" . }}
