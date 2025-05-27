@@ -6,9 +6,9 @@ avatar: /img/personal/avatar.jpg
 cover: lightpath.png
 
 slide_images:
-  - path: original.png
+  - path: lightpath.png
     desc:
-  - path: original2.gif
+  - path: lightpath.gif
     desc:
 
 categories:
