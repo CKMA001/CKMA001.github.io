@@ -3,7 +3,7 @@ title: Robotically fabricated recursive joint
 date: 2025-05-28 T14:21:26+08:00
 author: Chenkun Ma
 avatar: /img/personal/avatar.jpg
-cover: recursive code.gif
+cover: recursivecode.gif
 
 images:
   - recursive code.gif
