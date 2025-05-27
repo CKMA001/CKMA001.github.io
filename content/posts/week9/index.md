@@ -10,10 +10,7 @@ slide_images:
     desc:
   - path: IMG_9987.jpg
     desc:
-  - path: IMG_9985.jpg
-    desc:
-  - path: IMG_9988.jpg
-    desc:
+
 
 categories:
   - Algebra
