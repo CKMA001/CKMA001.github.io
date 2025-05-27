@@ -1,6 +1,6 @@
 ---
 title: Reading response to “Interactive Fabrication”
-date: 2019-06-03T14:21:26+08:00
+date: 2025-05-27T14:21:26+08:00
 author: Mck
 avatar: /img/personal/avatar.jpg
 cover: robot.png
