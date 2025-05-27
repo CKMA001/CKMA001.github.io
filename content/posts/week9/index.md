@@ -3,10 +3,11 @@ title: Modern Stereotomy
 date: 2025-05-28T14:21:26+08:00
 author: Chenkun Ma
 avatar: /img/personal/avatar.jpg
-cover: robot.png
+cover: IMG_9985.jpg
 
 slide_images:
-
+  - path: IMG_9983-2.jpg
+    desc:
   - path: IMG_9987.jpg
     desc:
   - path: IMG_9985.jpg
