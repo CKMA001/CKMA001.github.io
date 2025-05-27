@@ -19,7 +19,8 @@ weight: 40
 
 
 
-Robot Lightpath drawing
+In Mass Debilitation and Algorithmic Governance, Jasbir Puar argues that “dividualization
+is both digital and of the flesh. How do we see drawing as tools for abstracting living beings?
 
 <!--more-->
 
