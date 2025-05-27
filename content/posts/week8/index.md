@@ -3,7 +3,7 @@ title: Reading response to “Interactive Fabrication”
 date: 2019-06-03T14:21:26+08:00
 author: Mck
 avatar: /img/personal/avatar.jpg
-cover: light path.png
+cover: lightpath.png
 
 slide_images:
   - path: original.png
