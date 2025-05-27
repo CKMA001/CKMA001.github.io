@@ -3,10 +3,10 @@ title: Robotically manufactured self interlocking joinery
 date: 2025-05-27T14:21:26+08:00
 author: Mck
 avatar: /img/personal/avatar.jpg
-cover: workflow-2.png
+cover: IMG_9985.jpg
 
 slide_images:
-  - path: IMG_9985.jpg
+  - path: workflow-2.png
     desc:
   - path: IMG_9988.jpg
     desc:
