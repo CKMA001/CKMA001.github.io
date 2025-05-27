@@ -1,5 +1,5 @@
 ---
-title: Robot Lightpath drawing
+title: Lightpath drawing
 date: 2025-05-27T14:21:26+08:00
 author: Mck
 avatar: /img/personal/avatar.jpg
