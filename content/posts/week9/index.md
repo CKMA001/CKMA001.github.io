@@ -3,12 +3,15 @@ title: Modern Stereotomy
 date: 2019-06-03T14:21:26+08:00
 author: Mck
 avatar: /img/personal/avatar.jpg
-cover: original0.webp
+cover: IMG_9983.jpg
 
 slide_images:
-  - path: original.png
+
+  - path: IMG_9987.jpg
     desc:
-  - path: original2.gif
+  - path: IMG_9985.jpg
+    desc:
+  - path: IMG_9988.jpg
     desc:
 
 categories:
