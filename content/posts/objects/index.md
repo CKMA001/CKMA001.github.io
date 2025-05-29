@@ -18,4 +18,4 @@ weight: 20
 <!--more-->
 This added on lamp shade is a freeform surface resting on an existing lamp shade. Its geometry derives from the lightness of light fabric. It can be installed on an open lamp shade and its a warmful indirect light can create an ideal ambient light for reading, bedtime stories, or just staring in space for a more enjoyable sensual experience.  
 
--Written without any LLM-based stylistic post-editing
+-Written without any LLM post editing
