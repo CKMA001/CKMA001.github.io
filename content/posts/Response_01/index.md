@@ -3,10 +3,10 @@ title: Test on Writting article
 date: 2025-05-28T14:21:26+08:00
 author: Chenkun Ma
 avatar: /img/personal/avatar.jpg
-cover: Frame_00000.gif
+cover: test.jpg
 
 images:
-  - test.jpg
+  - 
 categories:
   - Algebra
   - articles
