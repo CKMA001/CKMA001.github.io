@@ -6,7 +6,7 @@ avatar: /img/personal/avatar.jpg
 cover: test.jpg
 
 images:
-  - 
+  - test.jpg
 categories:
   - Algebra
   - articles
