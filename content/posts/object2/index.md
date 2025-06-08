@@ -6,7 +6,7 @@ avatar: /img/personal/avatar.jpg
 cover: Chair.jpg
 
 slide_images:
-  - path: Chair.jpg
+  - path: sketches.jpg
     desc:
   - path: Chair.jpg
     desc:
