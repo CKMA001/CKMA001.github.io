@@ -1,19 +1,22 @@
 ---
-title: A house and two sculpture
-date: 2025-05-28T14:21:26+08:00
-author: Chenkun Ma
+title: Grey Maze
+date: 2025-06-19T14:21:26+08:00
+author: Mck
 avatar: /img/personal/avatar.jpg
-cover: IMG_2577.png
+cover: knitting.jpg
 
-images:
-  - clay_02.png
+
 categories:
   - objects
 
-weight: 20
+weight: 40
 ---
 
 
 
+sewing 
+
 <!--more-->
-Work in Progress
+
+
+work in progress
