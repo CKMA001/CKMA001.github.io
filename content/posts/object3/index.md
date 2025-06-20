@@ -1,5 +1,5 @@
 ---
-title: grey maze
+title: Grey Maze
 date: 2025-06-19T14:21:26+08:00
 author: Mck
 avatar: /img/personal/avatar.jpg
