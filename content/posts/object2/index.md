@@ -27,4 +27,6 @@ a wound consisting of superficial damage to the skin (wikipedia)
 <!--more-->
 
 
-work in progress
+A chair has longevity just like any other manmade object. It fulfills its function until it is broken or no longer satisfies the needs or desires of a person. I enjoyed the process of re-imaging an object's life after it reaches its death. The furniture may never be perfect like it used to be, but there's still a kind of material economy that lies in its aesthetic as an object.
+
+-Written without any LLM post editing
