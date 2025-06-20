@@ -3,10 +3,10 @@ title: Paper Folding
 date: 2025-06-20 T14:21:26+08:00
 author: Chenkun Ma
 avatar: /img/personal/avatar.jpg
-cover: Paperfolding.png
+cover: Paperfolding.jpg
 
 images:
-  - Paperfolding_02
+  - Paperfolding_02.jpg
 categories:
   - objects
 
