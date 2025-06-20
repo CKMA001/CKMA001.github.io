@@ -3,10 +3,11 @@ title: An extra Lamp Shade
 date: 2025-05-28T14:21:26+08:00
 author: Chenkun Ma
 avatar: /img/personal/avatar.jpg
-cover: Weixin Image_20250607215305.png
+cover: clay.png
 
 images:
   - Weixin Image_20250607215135.png
+  - clay_02.png
 categories:
   - objects
 
