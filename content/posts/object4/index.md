@@ -10,7 +10,7 @@ images:
 
 
 categories:
-  - objects
+  - Objects
 
 weight: 20
 ---
