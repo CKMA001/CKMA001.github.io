@@ -1,6 +1,6 @@
 ---
 title: Paper Folding 
-date: 2025-06-20 T14:21:26+08:00
+date: 2025-06-19 T14:21:26+08:00
 author: Chenkun Ma
 avatar: /img/personal/avatar.jpg
 cover: Paperfolding.jpg
