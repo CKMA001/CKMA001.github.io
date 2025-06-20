@@ -1,25 +1,20 @@
 ---
 title: A black chair
-date: 2025-06-07T14:21:26+08:00
+date: 2025-06-19T14:21:26+08:00
 author: Mck
 avatar: /img/personal/avatar.jpg
-cover: Chair.jpg
+cover: knitting.jpg
 
-slide_images:
-  - path: sketches_02.jpg
-    desc:
-  - path: Option.jpg
-    desc:
 
 categories:
-  - Algebra
+  - objects
 
 weight: 40
 ---
 
 
 
-readapting chair design
+sewing 
 
 <!--more-->
 
