@@ -1,7 +1,7 @@
 ---
 title: Writting films series 01 
-date: 2025-06-07T14:21:26+08:00
-author: Mck
+date: 2025-12-28T14:21:26+08:00
+author: Chen (Chenkun Ma)
 avatar: /img/personal/avatar.jpg
 cover: writing film series 01.jpg
 
@@ -14,7 +14,7 @@ weight: 40
 ---
 
 
-**How does air changes our understanding of space in film  Berlin: Symphony of a great city**
+## How does air changes our understanding of space in film  Berlin: Symphony of a great city
 
 
 <!--more-->
