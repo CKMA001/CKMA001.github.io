@@ -1,5 +1,5 @@
 ---
-title: The aesthetics of air in Berlin: Symphony of a great city
+title: The aesthetics of air 
 date: 2025-06-07T14:21:26+08:00
 author: Mck
 avatar: /img/personal/avatar.jpg
