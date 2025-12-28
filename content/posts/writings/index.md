@@ -3,7 +3,7 @@ title: Writting films series 01
 date: 2025-06-07T14:21:26+08:00
 author: Mck
 avatar: /img/personal/avatar.jpg
-cover: cover.jpg
+cover:writing film series 01.jpg
 
 
 
@@ -14,8 +14,7 @@ weight: 40
 ---
 
 
-The aesthetics of air 
-How does air changes our understanding of space in the film:  Berlin: Symphony of a great city
+How does air changes our understanding of space in film:  Berlin: Symphony of a great city
 
 
 <!--more-->
