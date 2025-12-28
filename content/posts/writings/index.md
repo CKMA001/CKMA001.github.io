@@ -8,7 +8,7 @@ cover: writting film series 02.jpg
 
 
 categories:
-  - Writtings
+  - Writting Film Series
 
 weight: 40
 ---
