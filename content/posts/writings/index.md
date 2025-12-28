@@ -3,7 +3,7 @@ title: Writting films series 01
 date: 2025-12-28T14:21:26+08:00
 author: Chen (Chenkun Ma)
 avatar: /img/personal/avatar.jpg
-cover: writing film series 01.jpg
+cover: writting film series 02.jpg
 
 
 
