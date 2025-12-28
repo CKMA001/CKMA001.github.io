@@ -3,7 +3,7 @@ title: Writting films series 01
 date: 2025-06-07T14:21:26+08:00
 author: Mck
 avatar: /img/personal/avatar.jpg
-cover:writing film series 01.jpg
+cover: writing film series 01.jpg
 
 
 
